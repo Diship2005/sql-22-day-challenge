@@ -1,0 +1,5 @@
+Day 1 SQL Notes
+- SELECT
+- FROM
+- WHERE
+- ORDER BY
